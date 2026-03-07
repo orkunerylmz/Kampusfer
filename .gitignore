@@ -1,0 +1,21 @@
+# Ignore Source Code Folders
+/backend/
+/frontend/
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.*
+!.env.example
