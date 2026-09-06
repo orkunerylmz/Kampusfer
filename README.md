@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./frontend/public/logo.png" alt="Kampusfer Logo" width="160" />
+
 # Kampusfer
 
 **[🇬🇧 English Documentation](#-english-documentation) &nbsp;•&nbsp; [🇹🇷 Türkçe Dokümantasyon](#-türkçe-dokümantasyon)**
